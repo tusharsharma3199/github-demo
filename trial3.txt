@@ -1,1 +1,2 @@
 Trial 3 , if you get message like having another proccess running , run this command -: rm -f .git/index.lock 
+making few changes and then will merge this branch to main branch
